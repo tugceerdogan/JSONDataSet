@@ -1,0 +1,55 @@
+{
+   “Soccer Leauge”: [
+      {
+         “id”: “1”,
+         “name”: “Amigos”,
+          “gorsel”: “https://raw.githubusercontent.com/tugceerdogan/JSONDataSet/master/Amigos.png”
+      },
+      {
+         “id”: “2”,
+         “name”: “Aztecs”,
+         “gorsel”: “https://raw.githubusercontent.com/tugceerdogan/JSONDataSet/master/Aztecs.png”
+      },
+      {
+         “id”: “3”,
+         “name”: “Chippewas”,
+         “gorsel”: “https://raw.githubusercontent.com/tugceerdogan/JSONDataSet/master/Amigos.png”
+      },
+      {
+         “id”: “4”,
+         “name”: “Red Foxes”,
+         “gorsel”: “https://raw.githubusercontent.com/tugceerdogan/JSONDataSet/master/Amigos.png”
+      },
+{
+         “id”: “5”,
+         “name”: “Bandits”,
+         “gorsel”: “https://raw.githubusercontent.com/tugceerdogan/JSONDataSet/master/Bandits.png”
+      },
+{
+         “id”: “6”,
+         “name”: “Sharks”,
+         “gorsel”: “https://raw.githubusercontent.com/tugceerdogan/JSONDataSet/master/Amigos.png”
+      },
+{
+         “id”: “7”,
+         “name”: “Big Blues”,
+         “gorsel”: "https://raw.githubusercontent.com/tugceerdogan/JSONDataSet/master/Big Blues.png"
+      },
+{
+         “id”: “8”,
+         “name”: “Green Wave”,
+         “gorsel”: “https://raw.githubusercontent.com/tugceerdogan/JSONDataSet/master/GreenWave.png”
+      },
+{
+         “id”: “9”,
+         “name”: “Fast & The Furious”,
+         “gorsel”: “https://raw.githubusercontent.com/tugceerdogan/JSONDataSet/master/Fast & The Furious.png”
+      },
+{
+         “id”: “10”,
+         “name”: “Black Stars”,
+         “gorsel”: “https://raw.githubusercontent.com/tugceerdogan/JSONDataSet/master/Black Stars.png”
+      },
+
+   ]
+}
