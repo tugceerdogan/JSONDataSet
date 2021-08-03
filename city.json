@@ -1,4 +1,33 @@
-{
-    "name" : "Eskisehir"
-}
+[
+ {
+    "name": "İstanbul",
+ },
+ {
+    "name": "Ankara",
+ },
+ {
+    "name": "İzmir",
+ },
+ {
+    "name": "Eskişehir",
+ },
+ {
+    "name": "Adana",
+ },
+ {
+    "name": "Bursa",
+ },
+ {
+    "name": "Kocaeli",
+ },
+ {
+    "name": "Antalya",
+ },
+ {
+    "name": "Muş",
+ },
+ {
+    "name": "Balıkesir",
+ }
+]
 
